@@ -1,7 +1,6 @@
-# Carbonio Admin Portal
+# Test Doc Portal
 
-Welcome to the Administrator Documentation of Carbonio, the fully private digital
-workplace.
+Welcome to the Test Doc Portal.
 
 If you are searching for the User Documentation, please refer to:
 [Carbonio User Documentation](https://docs.zextras.com/user-guides/carbonio/en/html)
