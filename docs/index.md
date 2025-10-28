@@ -6,11 +6,11 @@
 
 The content is organized into the following sections:  
     
-[Introduction](/introduction)  
-[Architecture](/architecture)  
-[Install](/install)  
-[Manage](/manage)  
-[Upgrade](/upgrade)  
-[Release Notes](/release-notes)  
-[CLI Reference](/cli-reference)  
-[API Reference](/api-reference)  
+[Introduction](/introduction/index.html)  
+[Architecture](/architecture/index.html)  
+[Install](/install/index.html)  
+[Manage](/manage/index.html)  
+[Upgrade](/upgrade/index.html)  
+[Release Notes](/release-notes/index.html)  
+[CLI Reference](/cli-reference/index.html)  
+[API Reference](/api-reference/index.html)  
