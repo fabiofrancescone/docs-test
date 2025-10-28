@@ -8,3 +8,4 @@ mkdocs build
 mkdocs serve
 
 # To publish in Github pages:
+mkdocs gh-deploy --force
