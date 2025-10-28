@@ -1,16 +1,16 @@
 # Homepage
   
-![Carbonio Admin Panel](/images/carbonio-admin.png)
+![Carbonio Admin Panel](images/carbonio-admin.png)
     
 ## Documentation Sections
 
 The content is organized into the following sections:  
     
-[Introduction](/introduction/index.html)  
-[Architecture](/architecture/index.html)  
-[Install](/install/index.html)  
-[Manage](/manage/index.html)  
-[Upgrade](/upgrade/index.html)  
-[Release Notes](/release-notes/index.html)  
-[CLI Reference](/cli-reference/index.html)  
-[API Reference](/api-reference/index.html)  
+[Introduction](introduction.md)  
+[Architecture](architecture.md)  
+[Install](install.md)  
+[Manage](manage.md)  
+[Upgrade](upgrade.md)  
+[Release Notes](release-notes.md)  
+[CLI Reference](cli-reference.md)  
+[API Reference](api-reference.md)  

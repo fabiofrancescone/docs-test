@@ -3,7 +3,7 @@
 This section contains a description of Carbonio architecture and of the Components along with the features they provide.
 Here is the architecture diagram of Carbonio:
 
-![Carbonio Architecture](/images/arch-diagram.png)
+![Carbonio Architecture](images/arch-diagram.png)
 
 
 # Fundamental Concepts
