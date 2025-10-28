@@ -1,10 +1,16 @@
-# Test Doc Portal
+# Homepage
+  
+![Carbonio Admin Panel](/images/carbonio-admin.png)
+    
+## Documentation Sections
 
-Welcome to the Test Doc Portal.
-
-If you are searching for the User Documentation, please refer to:
-[Carbonio User Documentation](https://docs.zextras.com/user-guides/carbonio/en/html)
-
-If you are searching for the Carbonio Community Edition Admin Documentation, please refer to:
-[Carbonio CE Admin Documentation](https://docs.zextras.com/carbonio-ce/html/index.html)
-
+The content is organized into the following sections:  
+    
+[Introduction](/introduction)  
+[Architecture](/architecture)  
+[Install](/install)  
+[Manage](/manage)  
+[Upgrade](/upgrade)  
+[Release Notes](/release-notes)  
+[CLI Reference](/cli-reference)  
+[API Reference](/api-reference)  
